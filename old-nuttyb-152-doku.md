@@ -21,7 +21,7 @@ Converted from: <https://docs.google.com/document/d/1hNRO7ZIpy76v2aBitme2VgR0H0d
 NuttyB Raptors 1.52
 Nov 15, 2024
 
-![](old-nuttyb-152-doku/01-header.webp)
+![](/old-nuttyb-152-doku/01-header.webp)
 
 *Picture: REU commander attends to a hotly contested choke point defense bordering Raptor territory*
 
@@ -115,12 +115,12 @@ You will have a large amount of time and resources to eco and prepare defense be
 | 1️⃣ Players box | !clearbox 1 |
 | 2️⃣ Raptor box | !addbox 82 82 117 117 2 |
 
-| ![](old-nuttyb-152-doku/config-01-map.webp) |
+| ![](/old-nuttyb-152-doku/config-01-map.webp) |
 | --- |
-| ![](old-nuttyb-152-doku/config-02-boxes.webp) |
-| ![](old-nuttyb-152-doku/config-03-spawn.webp) ![](old-nuttyb-152-doku/config-04-settings.webp) |
-| ![](old-nuttyb-152-doku/config-05-raptors.webp) |
-| ![](old-nuttyb-152-doku/config-06-allyteam.webp) ![](old-nuttyb-152-doku/config-07-startpos.webp) |
+| ![](/old-nuttyb-152-doku/config-02-boxes.webp) |
+| ![](/old-nuttyb-152-doku/config-03-spawn.webp) ![](/old-nuttyb-152-doku/config-04-settings.webp) |
+| ![](/old-nuttyb-152-doku/config-05-raptors.webp) |
+| ![](/old-nuttyb-152-doku/config-06-allyteam.webp) ![](/old-nuttyb-152-doku/config-07-startpos.webp) |
 
 ⬆️
 [Go back to lobby setup](#_cqm78rn5lcv1)
@@ -145,13 +145,13 @@ Raptor attack will begin after a very short period, you won’t have time to bui
 | 1️⃣ Players box | !clearbox 1 |
 | 2️⃣ Raptor box | !addbox 82 82 117 117 2 |
 
-| ![](old-nuttyb-152-doku/config-01-map.webp) |
+| ![](/old-nuttyb-152-doku/config-01-map.webp) |
 | --- |
-| ![](old-nuttyb-152-doku/config-zerograce-spawn.webp) |
-| ![](old-nuttyb-152-doku/config-zerograce-settings.webp) |
-| ![](old-nuttyb-152-doku/config-05-raptors.webp) |
-| ![](old-nuttyb-152-doku/config-zerograce-raptors.webp) |
-| ![](old-nuttyb-152-doku/config-07-startpos.webp) |
+| ![](/old-nuttyb-152-doku/config-zerograce-spawn.webp) |
+| ![](/old-nuttyb-152-doku/config-zerograce-settings.webp) |
+| ![](/old-nuttyb-152-doku/config-05-raptors.webp) |
+| ![](/old-nuttyb-152-doku/config-zerograce-raptors.webp) |
+| ![](/old-nuttyb-152-doku/config-07-startpos.webp) |
 
 ⬆️ [Go back to lobby setup](#_cqm78rn5lcv1)
 ⬆️
@@ -175,13 +175,13 @@ Raptors spawn rate is greatly increased.
 | 1️⃣ Players box | !clearbox 1 |
 | 2️⃣ Raptor box | !addbox 82 82 117 117 2 |
 
-| ![](old-nuttyb-152-doku/config-01-map.webp) |
+| ![](/old-nuttyb-152-doku/config-01-map.webp) |
 | --- |
-| ![](old-nuttyb-152-doku/config-zerg-spawn.webp) |
-| ![](old-nuttyb-152-doku/config-zerograce-settings.webp) |
-| ![](old-nuttyb-152-doku/config-05-raptors.webp) |
-| ![](old-nuttyb-152-doku/config-06-allyteam.webp) |
-| ![](old-nuttyb-152-doku/config-07-startpos.webp) |
+| ![](/old-nuttyb-152-doku/config-zerg-spawn.webp) |
+| ![](/old-nuttyb-152-doku/config-zerograce-settings.webp) |
+| ![](/old-nuttyb-152-doku/config-05-raptors.webp) |
+| ![](/old-nuttyb-152-doku/config-06-allyteam.webp) |
+| ![](/old-nuttyb-152-doku/config-07-startpos.webp) |
 
 ⬆️ [Go back to lobby setup](#_cqm78rn5lcv1)
 ⬆️
@@ -206,13 +206,13 @@ Remain alert for raptor hives as they can appear everywhere on the map. The hive
 | 1️⃣ Players box | !clearbox 1 |
 | 2️⃣ Raptor box | Can be anywhere, does not affect game play |
 
-| ![](old-nuttyb-152-doku/config-01-map.webp) |
+| ![](/old-nuttyb-152-doku/config-01-map.webp) |
 | --- |
-| ![](old-nuttyb-152-doku/config-gauntlet-spawn.webp) |
-| ![](old-nuttyb-152-doku/config-zerograce-settings.webp) |
-| ![](old-nuttyb-152-doku/config-05-raptors.webp) |
-| ![](old-nuttyb-152-doku/config-06-allyteam.webp) |
-| ![](old-nuttyb-152-doku/config-07-startpos.webp) |
+| ![](/old-nuttyb-152-doku/config-gauntlet-spawn.webp) |
+| ![](/old-nuttyb-152-doku/config-zerograce-settings.webp) |
+| ![](/old-nuttyb-152-doku/config-05-raptors.webp) |
+| ![](/old-nuttyb-152-doku/config-06-allyteam.webp) |
+| ![](/old-nuttyb-152-doku/config-07-startpos.webp) |
 
 ⬆️
 [Go back to lobby setup](#_cqm78rn5lcv1)
@@ -295,11 +295,11 @@ See the **[🛠️ Widgets](../Widgets)** page for widget performance recommenda
 
 Same reason as map deformation. You can toggle it with a hotkey:
 
-| **Default layout** | ![](old-nuttyb-152-doku/layout-default.webp) |
+| **Default layout** | ![](/old-nuttyb-152-doku/layout-default.webp) |
 | --- | --- |
-| **Grid optimized layout** | ![](old-nuttyb-152-doku/layout-grid.webp) |
+| **Grid optimized layout** | ![](/old-nuttyb-152-doku/layout-grid.webp) |
 
-![](old-nuttyb-152-doku/divider.webp)
+![](/old-nuttyb-152-doku/divider.webp)
 
 # **Changelog & former versions**
 
