@@ -2,7 +2,7 @@
 title: Home
 description: The NuttyB wiki - Widgets, Guides and other info about NuttyB for Beyond All Reason
 published: true
-date: 2025-12-17T20:49:43.938Z
+date: 2025-12-18T18:45:38.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T11:10:56.387Z
@@ -16,7 +16,7 @@ We improve, document, and distribute the evolving "collective NuttyB" configurat
 
 ## 🎮 Quickstart for Players
 
-1. Open the Collective NuttyB Configurator: https://configurator.nuttyb.org
+1. Open the Collective NuttyB Configurator: <https://configurator.nuttyb.org>. You can also give  <https://relicus.github.io/pyrem-bar-nuttyconfigurator/> a try. That variant is very different from the one here.
 2. Select your tweaks and options. The page will generate lobby command blocks for you.
 3. Copy each “Part” into the BAR lobby chat as instructed on the page.
 4. Start a Raptors or Scavengers game and have fun.
