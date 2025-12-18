@@ -16,7 +16,7 @@ We improve, document, and distribute the evolving "Community NuttyB" configurati
 
 ## 🎮 Quickstart for Players
 
-1. Open the Community NuttyB Configurator: https://configurator.nuttyb.org
+1. Open the Community NuttyB Configurator: <https://configurator.nuttyb.org>. You can also give <https://relicus.github.io/pyrem-bar-nuttyconfigurator/> a try. That variant is very different from the one here.
 2. Select your tweaks and options. The page will generate lobby command blocks for you.
 3. Copy each “Part” into the BAR lobby chat as instructed on the page.
 4. Start a Raptors or Scavengers game and have fun.
