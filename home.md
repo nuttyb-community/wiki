@@ -12,11 +12,11 @@ A community-driven home for the modern Raptors/Scavengers PvE experience in Beyo
 
 **What is NuttyB?** NuttyB Raptors is a different flavor from vanilla BAR tailored for a Defense Survival Game experience, allowing a challenging but fair gameplay with better replayability. It features fun & challenging game modes, tweaked units & buildings, special commander upgrades, and all extra units & buildings from the game.
 
-We improve, document, and distribute the evolving "collective NuttyB" configuration, guides, and tooling so that players, developers, and doc writers have a single place to start.
+We improve, document, and distribute the evolving "Community NuttyB" configuration, guides, and tooling so that players, developers, and doc writers have a single place to start.
 
 ## 🎮 Quickstart for Players
 
-1. Open the Collective NuttyB Configurator: <https://configurator.nuttyb.org>. You can also give  <https://relicus.github.io/pyrem-bar-nuttyconfigurator/> a try. That variant is very different from the one here.
+1. Open the Community NuttyB Configurator: https://configurator.nuttyb.org
 2. Select your tweaks and options. The page will generate lobby command blocks for you.
 3. Copy each “Part” into the BAR lobby chat as instructed on the page.
 4. Start a Raptors or Scavengers game and have fun.
@@ -26,14 +26,14 @@ We improve, document, and distribute the evolving "collective NuttyB" configurat
   - Replay: https://www.beyondallreason.info/replays?gameId=59d5c568d459673a59b605cfa810fcee
   - YouTube Video: https://www.youtube.com/watch?v=WL4swUdSSCY
 
-## ✨ Why the name “collective NuttyB”
+## ✨ Why the name “Community NuttyB”
 
 - “NuttyB” historically referred to a popular, ever-evolving community configuration for the Raptors mode.
-- We use “collective NuttyB” to make it clear this is a new, collaborative effort spanning multiple repos, with transparent history, docs, and tooling.
+- We use “Community NuttyB” to make it clear this is a new, collaborative effort spanning multiple repos, with transparent history, docs, and tooling.
 
-## 🎯 Goals of the collective
+## 🎯 Goals of the Community
 
-- Improve the NuttyB Raptors/Scavengers experience together as a collective.
+- Improve the NuttyB Raptors/Scavengers experience together as a Community.
 - Provide a one‑stop shop for players and developers: guides, widgets, configurator, and links to everything relevant.
 - Offer a space where developers can share, collaborate on, and promote their work.
 
@@ -42,7 +42,7 @@ We improve, document, and distribute the evolving "collective NuttyB" configurat
 - The community “NuttyB” configuration has been shared in lobbies and spreadsheets for a long time and became a staple PvE experience for BAR’s Raptors mode.
 - A public reference was discussed and shared by the community, e.g. this Reddit thread points to earlier sources and the spreadsheet of commands: https://www.reddit.com/r/beyondallreason/comments/1jchrj9/where_are_the_nuttyb_raptor_scripts/
 - Prior public repository: https://github.com/Backbash/NuttyB-Raptors
-- This organization consolidates that heritage under “collective NuttyB,” with:
+- This organization consolidates that heritage under “Community NuttyB,” with:
   - Source‑controlled tweak files and a transparent `CHANGELOG.md` in `NuttyB`.
   - A maintained Wiki with newcomer and advanced guides.
   - A web Configurator that generates lobby commands from the live tweak sources.
@@ -74,4 +74,4 @@ Credits derived from `NuttyB` git history, changelog, and historical documentati
 
 If we missed you, open a Discussion with details and links so we can add proper attribution.
 
-— The collective NuttyB maintainers
+— The Community NuttyB maintainers
