@@ -2,10 +2,10 @@
 title: Home
 description: The NuttyB wiki - Widgets, Guides and other info about NuttyB for Beyond All Reason
 published: true
-date: 2025-12-18T18:45:38.028Z
+date: 2026-06-24T10:14:56.963Z
 tags: 
 editor: markdown
-dateCreated: 2025-12-17T11:10:56.387Z
+dateCreated: 2026-06-22T21:14:01.900Z
 ---
 
 A community-driven home for the modern Raptors/Scavengers PvE experience in Beyond All Reason (BAR). 
@@ -54,14 +54,14 @@ If you have missing pieces of history, screenshots, or guides, please share them
 Credits derived from `NuttyB` git history, changelog, and historical documentation:
 
 **Contributors:**
-- [Backbash](https://github.com/Backbash) — project ownership and early balance and unit updates.
-- [tetrisface](https://github.com/tetrisface) — converters, T3 eco and builders, tooling, minification, many tweaks and release flow.
-- [rcorex](https://github.com/rcorex) — raptor mechanics, spawn system, balance updates and original creator of the configurator.
-- [Fast](https://github.com/00fast00) — launcher rebalances, recent features, and guides.
-- [timuela](https://github.com/timuela) — launcher range adjustments.
-- [Lu5ck](https://github.com/Lu5ck) — base64 automation and LRPC rebalance review.
-- [autolumn](https://github.com/autolumn) — helper commands.
-
+- [Backbash](https://github.com/Backbash) - Project owner, balance changes, raptor updates, T4 air rework
+- [tetrisface](https://github.com/tetrisface) - Converter, t3 eco, tooling, and extensive tweaks
+- [rcorex](https://github.com/rcorex) - Raptor mechanics, spawn system, balance updates
+- [Fast](https://github.com/00fast00) - Launcher rebalance, recent features some docs
+- [timuela](https://github.com/timuela) - Unit launcher range adjustments
+- [Lu5ck](https://github.com/Lu5ck) - Base64 automation, LRPC rebalance review
+- [autolumn](https://github.com/autolumn) - Helper commands
+- [Insider](https://github.com/goldjee) - Configurator web application, CI/CD
 - ChrispyNut (aka ChrisPeanut) — original Nutty Raptor creator (2023).
 - Damgam — maintainer of the vanilla RaptorMod.
 - scott0x — revamped raptor eco pathing.
@@ -70,7 +70,6 @@ Credits derived from `NuttyB` git history, changelog, and historical documentati
 
 **Documentation contributors:**
 - Cynder Quinn (CQs) — author of the Newcomers Guide (adapted into the Wiki).
-- Fast — additional written guides and resources.
 
 If we missed you, open a Discussion with details and links so we can add proper attribution.
 
