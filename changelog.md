@@ -2,13 +2,71 @@
 title: Changelog
 description: NuttyB Changelog
 published: true
-date: 2025-12-18T18:42:02.979Z
-tags:
+date: 2026-06-27T21:16:20.286Z
+tags: 
 editor: markdown
-dateCreated: 2025-12-18T18:41:59.116Z
+dateCreated: 2026-06-22T21:13:57.476Z
 ---
 
 All notable changes to this project are documented in this file. This changelog is generated from git commit messages and grouped by month. Merge commits are excluded.
+
+## 2026-06-27
+
+- Added a Preset Guide explaining how to pick, customise and share presets, linked from the About page.
+
+## 2026-06-25
+
+- Configuration Presets: quickly start from a curated setup (Casual, Pyrem, Timuela and the default), or save, upload and share your own.
+- Deleting the preset you're currently using now falls back to the default instead of leaving you with an empty configuration.
+- Added a host whitelist and on-screen warnings for presets that pull in remote tweaks, so you can see and trust where shared configurations load code from.
+
+## 2026-06-14
+
+- New T3 Geo + Walls tweak adding faction-unique T3 geothermals and walls, giving geos lasting value into the late game and tougher walls to hold off raptor and scav waves.
+
+## 2026-06-13
+
+- Renamed the higher-tier options to match the in-game tiering: "Legendary"/"Epic" labels are now "T4" (e.g. T4 Economy, T4 RFLRPC), with clearer descriptions.
+
+## 2026-06-12
+
+- Added extra delay before Doombringers spawn (+40% anger).
+- Improved tooltips for T3 and T4 economy buildings.
+- Made tiering system clearer: Epic -> T3 (including the base game structures), Legendary -> T4.
+
+## 2026-06-11
+
+- About page with a project overview, how-to-play guide, recommended widgets,
+  community links and the changelog.
+- Short description added to the configurator page.
+- Removed unit launchers that are not viable. Moved the remaining from Epic Commando to T3 aides build options.
+- Added tooltips to the unit launchers.
+
+## 2026-06-09
+
+- Fixed the eco-t4 tweak.
+
+## 2026-05-28
+
+- Lobby Name Tag wnow displays enemy HP multipliers.
+- Descriptions of the settings in the configurator are now neatly organised.
+- Added an Expand button to the generated commands section to show the full list of commands.
+- Merged first comment line of each tweak into a single slot header.
+- Moved the LRPC rebalance and T4 air rework into tweakdefs.
+
+## 2026-01-14
+
+- Added Lua sources editor/viewer with slot mapping.
+- Users can now adjust the order of their custom tweaks.
+
+## 2025-12-29
+
+- Added Base64 encoder/decoder tool to the configurator.
+
+## 2025-12-20
+
+- Restructured available difficulty settings and tweak organization.
+- Moved core tweaks to non-selectable core, bundled difficulty tweaks into presets.
 
 ## 2025-18
 
